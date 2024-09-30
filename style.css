@@ -10,3 +10,15 @@ h2 {
 p {
     font-size:25px;
 }
+ul {
+    font-size:25px;
+}
+.mess {
+    font-size:50px;
+    
+}
+button {
+    position: relative;
+    left:250px;
+    top:-15px;
+}
